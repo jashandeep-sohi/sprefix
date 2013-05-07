@@ -1,4 +1,3 @@
-#!/astro/apps/pkg/python64/bin/python
 import os
 import sys
 
